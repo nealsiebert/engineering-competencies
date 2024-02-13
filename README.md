@@ -1,1 +1,2 @@
-First commit
+# Introduction
+Based on Marty Cagen's excellent [article](https://www.svpg.com/coaching-tools-the-assessment/) on coaching product managers, [this](/engineer.md) is my take on a defining a set of core competencies for software engineers.
