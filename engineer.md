@@ -1,5 +1,5 @@
 # Competencies
-There are a core set of abilities that, regardless of industry, software engineers need to cultivate. I have organized those into three distinct buckets, purely technical skills, skills required to function well as part of a team, and people skills.
+There are a core set of abilities that, regardless of industry, software engineers need to cultivate. I have organized those into three distinct buckets, purely technical skills, skills required to function well as part of a software development organization, and interpersonal skills.
 
 ## Technical
 Purely technical skills are those most often associated with engineering, the basis for an engineer's ability to do their job well.
